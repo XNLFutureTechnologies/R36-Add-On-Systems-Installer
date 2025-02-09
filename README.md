@@ -5,6 +5,8 @@ Current Add-On Systems supported by this program:
 <strong>- XNL Ft.</strong>  
 <strong>- Apps</strong>  
 
+![Demo Screenshots](demo.gif)
+  
 # Add-on System Explanations
 <strong>XNL Ft.</strong>  
 This category/system is intended to be used with all the packages, programs and tools I've published (and are currently working on). You <strong>can</strong> also just copy most (if not all) of my releases into the /roms/tools/XNL Tools folder on your SD-Card, but using this category/system instead just keeps it a lot more organized. Of course you don't have to use it, I/we personally do like to have a more organized system to use my/our tools instead of cluttering the Options/System options/folders 😊.  
