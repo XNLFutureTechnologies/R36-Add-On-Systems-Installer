@@ -1,6 +1,8 @@
 # XNL R36 Add-On Systems Installer
 With this simple program (script) you can install additional systems into your R36S/R36H's main menu (into EmulationStation).  
   
+Official Release Website: https://www.teamxnl.com/r36-add-on-systems-installer/  
+    
 Current Add-On Systems supported by this program:  
 <strong>- XNL Ft.</strong>  
 <strong>- Apps</strong>  
