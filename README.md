@@ -31,7 +31,7 @@ A: No sorry, I just won't. It's not that I can't, but if I would agree with thos
 <strong>Q: Why don't you just make the theme installation automated for the supported themes?</strong>  
 A: Good question, and I have even thought of that for a while, but that will also introduce the risk of those 'auto installers' breaking when the theme creator/developer changes the structure of his/her theme. It introduces issues where I would have to check if the themes already have existing files/logos for things like apps.png for example, to prevent that my installer would accidentally 'mess-up' someones theme etc.. Sorry that would be "a lot" of programming and checking (if done properly!) for something as simple where you could just 'copy-paste' a single folder and then you decide if you would for example want to overwrite a file apps.png (if it already exists).😊  
 
-</strong>NOTE FOR XNL INSIDER PROGRAM MEMBERS:</strong>  
+<strong>NOTE FOR XNL INSIDER PROGRAM MEMBERS:</strong>  
 If you are using the XNL Ft. interface and/or the XNL ARCADE STATION Theme, then you do not need to copy <strong>any</strong> of the files or folders from the themes folder. Our system(s) already have full theme support for these Add-On systems.  
   
 # Use At Your Own Risk
