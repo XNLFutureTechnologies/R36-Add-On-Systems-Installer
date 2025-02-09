@@ -16,8 +16,8 @@ In this system you can basically put all the additional applications (or scripts
 <strong>File Extensions:</strong> .sh  
   
 # Installation
-The folder XNL Tools <strong>needs</strong> to be installed into/copied to /roms/tools (so you end up with <strong>/roms/tools/XNL Tools</strong>). You DO NOT need to copy the themes folder into this folder. The explanation on how to use the themes files/folders is explained bellow😊.
-
+The file XNL Add-On Systems.sh <strong>needs</strong> to be copied to /roms/tools. You DO NOT need to copy the themes folder into this folder. The explanation on how to use the themes files/folders is explained bellow😊. This program will not allow to be run from one of the systems/categories it can install. This to prevent that you accidentally uninstall the system in which this program is located, and thus making it impossible to reactivate it again 😉.  
+  
 # Theme Support
 Is there theme support for these add-on systems? Yes, but <strong>very limited</strong>. I have included some theme files in the Themes folder, you can basically just copy all the folders from the folder Themes into your /roms/themes folder and then the themes which are (currently) in the Themes folder (in this repository) will automatically show the correct image/theme style for my add-on categories.  
 
