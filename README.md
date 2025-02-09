@@ -14,14 +14,20 @@ This category/system is intended to be used with all the packages, programs and 
 <strong>XNL Ft.</strong>  
 In this system you can basically put all the additional applications (or scripts) with an .sh extension. Some of my programs which can be installed with the XNL Package Manager will be using this category/system, but you can also just install/copy your own or third party .sh scripts into this folder so you can run them from your R36S/R36H.  
 <strong>File Extensions:</strong> .sh  
+  
+# Installation
+The folder XNL Tools <strong>needs</strong> to be installed into/copied to /roms/tools (so you end up with <strong>/roms/tools/XNL Tools</strong>). You DO NOT need to copy the themes folder into this folder. The explanation on how to use the themes files/folders is explained bellow😊.
 
 # Theme Support
 Is there theme support for these add-on systems? Yes, but <strong>very limited</strong>. I have included some theme files in the Themes folder, you can basically just copy all the folders from the folder Themes into your /roms/themes folder and then the themes which are (currently) in the Themes folder (in this repository) will automatically show the correct image/theme style for my add-on categories.  
 
 I will however <strong>NOT</strong> add support for all kinds of themes which are out there. It is quite easy (for most theme though that is), to add your own custom icons/theme style for a new system to it. <strong>most of the time</strong> it's just a matter of creating an additional .png, .jpg or .svg file. the internal names of my current system(s) are: <strong>xnlft</strong>, <strong>apps</strong>  
 
-Q: Can you please add support/files for [Insert Theme Name Here]?
+<strong>Q: Can you please add support/files for [Insert Theme Name Here]?</strong>
 A: No sorry, I just won't. It's not that I can't, but if I would agree with those requests, then my "issues/support tickets" will soon flood with all kinds of themes which people want to see to be added. I just don't have the time for that. Please just add/make the files yourself for your theme if it's not supported/included, or ask your theme creator to include them in a future update (if possible). IF you have made custom theme layout for my Add-on systems, and would like to see them added, just make a pull request and I will see if I can merge them. NOTE: It might be that I will alter the icons/theme/logo to make sure they properly reflect <strong>my</strong> intentions of these Add-on Systems if you make a pull-request.  
+  
+<strong>Q: Why don't you just make the theme installation automated for the supported themes?</strong>  
+A: Good question, and I have even thought of that for a while, but that will also introduce the risk of those 'auto installers' breaking when the theme creator/developer changes the structure of his/her theme. It introduces issues where I would have to check if the themes already have existing files/logos for things like apps.png for example, to prevent that my installer would accidentally 'mess-up' someones theme etc.. Sorry that would be "a lot" of programming and checking (if done properly!) for something as simple where you could just 'copy-paste' a single folder and then you decide if you would for example want to overwrite a file apps.png (if it already exists).😊  
   
 # Use At Your Own Risk
 Considering that this program modifies the es_systems.cfg there is a <strong>slight</strong> chance that your EmulationStation won't start anymore IF something might go (extremely) wrong. I have tested this program countless of times now, which also includes installing one of my add-on systems, uninstalling it, re-installing it, over and over and over, and I had zero issues. HOWEVER, it might obviously happen that the internal structure of these configuration files (of EmulationStation) might change in the future, and thus causing this program to become incompatible and possibly 'breaking' the EmulationStation systems.cfg file.  
